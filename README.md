@@ -1,2 +1,2 @@
-# Practice_GIt
-Practice Git/GitHub
+# Practice_gIt
+Practice git/gitHub
